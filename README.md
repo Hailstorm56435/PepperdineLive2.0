@@ -16,4 +16,5 @@ Future improvements include:
     Add floor plans to more buildings
     Integrate pathfinding between rooms
 
-[PepLivePoster.pdf](https://github.com/user-attachments/files/19925535/PepLivePoster.pdf)
+![image](https://github.com/user-attachments/assets/ff71e612-b6ac-484c-9072-ad3fc552f1c9)
+
