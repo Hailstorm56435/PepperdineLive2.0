@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/62d08701-bd8e-4670-b9e2-9a09da5e3033)
+
 Pepperdine Live 2.0:
 
 Project developed by Landon Brewster and Nick Landers.
@@ -13,3 +15,4 @@ Future improvements include:
   Map Improvements
     Add floor plans to more buildings
     Integrate pathfinding between rooms
+
