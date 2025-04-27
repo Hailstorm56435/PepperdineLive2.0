@@ -9,11 +9,16 @@ Inspired by Pepperdine Live, developed by Hunter Martin.
 PepperdineLive is an application meant to guide lost people at Pepperdine University, by providing them detailed locational information, through a 3d map which includes pepperdine buildings, their rooms, and any aliases. Pepperidne Live integrates with live pepperdine events, and can direct the user to event locations.
 
 Future improvements include:
-  Optimization
+
+  Optimization:
+  
     implement LOD
+    
     change render pipeline to URP - which would allow PepLive to run in a browset
   Map Improvements
+  
     Add floor plans to more buildings
+    
     Integrate pathfinding between rooms
 
 ![image](https://github.com/user-attachments/assets/ff71e612-b6ac-484c-9072-ad3fc552f1c9)
